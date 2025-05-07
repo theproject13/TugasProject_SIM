@@ -7,6 +7,7 @@ KohiApp/
 ├── assets/                  # Gambar, ikon, dll
 │   └── images/
 ├── components/              # Komponen reusable
+├── components/              # Komponen reusable
 │   ├── PromoBanner.tsx
 │   ├── ProductCard.tsx
 │   ├── HeaderGreeting.tsx
