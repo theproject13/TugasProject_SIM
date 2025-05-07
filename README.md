@@ -1,21 +1,25 @@
-TUGASSIM
+# 📱 TUGASSIM
 
-# Frist Planning of the project
+Proyek ini adalah bagian dari perencanaan dan pengembangan aplikasi **KohiApp**, yang dibangun menggunakan **React Native (Expo)** dan menerapkan praktik desain UI/UX yang efektif, modularisasi komponen, serta navigasi dinamis menggunakan `react-navigation`.
 
+---
 
-### Struktur Project
+## 📁 Struktur Project
+
 <div align="center">
-  <img src="https://github.com/theproject13/TugasProject_SIM/blob/main/struktur_project.png&" />
+  <img src="https://github.com/theproject13/TugasProject_SIM/blob/main/struktur_project.png" alt="Struktur Project" />
 </div>
 
+---
 
-### Start This Project
+## 🚀 Cara Memulai Proyek
 
-`npm install -g expo-cli` <button onclick="navigator.clipboard.writeText('npm install -g expo-cli')">Copy</button>
+Pastikan kamu sudah menginstal **Node.js** dan **npm** sebelum menjalankan langkah berikut:
 
-`npx create-expo-app KohiApp -t expo-template-blank-typescript` <button onclick="navigator.clipboard.writeText('npm install -g expo-cli')">Copy</button>
+```console
+reactnative@project13:~$ npm install -g expo-cli
+```
 
-`npm install @react-navigation/native` <button onclick="navigator.clipboard.writeText('npm install -g expo-cli')">Copy</button>
-=======
-`npm install @react-navigation/native` <button onclick="navigator.clipboard.writeText('npm install -g expo-cli')">Copy</button>
-
+```console
+reactnative@project13:~$ npx create-expo-app KohiApp -t expo-template-blank-cript
+```
